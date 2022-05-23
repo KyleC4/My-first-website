@@ -19,8 +19,8 @@ body{
 }
 
 #navbar{
-    background-color: #333;
-    color: #fff;
+    background-color: #fff;
+    color: #333;
 }
 
 #navbar ul{
@@ -33,15 +33,15 @@ body{
 }
 
 #navbar a{
-    color: #fff;
+    color: #333;
     text-decoration: none;
     font-size: 18px;
     padding-right: 15px;
 }
 
 #showcase{
-    background-image: url('../Images/Aqua2.jpg');
-    background-position:center right;
+    background-image:url(/My\ Website/images/showcase.jpg);
+    background-position: center right;
     min-height: 300px;
     margin-bottom: 30px;
     text-align: center;
@@ -64,15 +64,16 @@ body{
 #sidebar{
     float: right;
     width: 30%;
-    background: #333;
+    background: mediumaquamarine;
     color: #fff;
     padding: 10px;
+    border-radius: 15px;
     box-sizing: border-box;
 }
 
 #main-footer{
-    background-color: #333;
-    color: #fff;
+    background:#fff;
+    color: #333;
     text-align: center;
     padding: 20%;
     margin-top: 40px;
